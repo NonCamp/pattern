@@ -2,7 +2,7 @@ package com.zmy.pattern.proxy;
 
 public class Test {
 	public static void main(String[] args) {
-		Subject sub = new StaticProxy(new RealSubject());
+		Subject sub = new StaticProxy();
 		sub.doSomething();
 		sub.output("static proxy");
 		

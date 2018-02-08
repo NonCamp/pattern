@@ -2,22 +2,22 @@ package com.zmy.pattern.proxy;
 
 public class StaticProxy implements Subject{
 
-	private RealSubject realSubject ;
+	private Subject subject ;
 	
-	public StaticProxy(RealSubject realSubject) {
-		this.realSubject = realSubject;
+	public StaticProxy() {
+		this.subject = new RealSubject();
 	}
 	
 	@Override
 	public void doSomething() {
-		realSubject.doSomething();
+		subject.doSomething();
 	}
 
 
 	@Override
 	public void output(String name) {
 		System.out.println("可以先做些其他事情。。。。");
-		realSubject.output(name);
+		subject.output(name);
 	}
 
 }
