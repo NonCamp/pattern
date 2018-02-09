@@ -1,4 +1,4 @@
-package com.zmy.pattern.simpleFactory;
+package com.zmy.pattern.simple_factory;
 
 public class Factory {
 	
