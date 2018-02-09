@@ -8,4 +8,5 @@
 - 装饰模式 decorator
 - 代理模式 proxy
 - 工厂方法模式 factory method
+- 原型模式 prototype
 
