@@ -10,4 +10,4 @@
 - 工厂方法模式 factory method
 - 原型模式 prototype
 - 外观模式 facade
-
+- 建造者模式 builder
