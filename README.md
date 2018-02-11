@@ -1,6 +1,6 @@
 # pattern
-设计模式的演示DEMO
- 通过学习设计模式，重新认识面向对象技术，重新认识java，希望通过demo能对设计模式有一个自己的理解和记忆。
+设计模式的演示Demo
+ 通过学习设计模式，重新认识面向对象技术，重新认识Java，希望通过此Demo能对设计模式有一个自己的理解和记忆。
 
 - 简单工厂模式 simple factory
 - 单例模式 singleton
@@ -9,5 +9,6 @@
 - 代理模式 proxy
 - 工厂方法模式 factory method
 - 原型模式 prototype
-- 外观模式 facade
-- 建造者模式 builder
+- 外观模式  facade
+- 建造者模式  builder
+- 观察者模式  observer
