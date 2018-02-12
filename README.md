@@ -12,3 +12,4 @@
 - 外观模式  facade
 - 建造者模式  builder
 - 观察者模式  observer
+- 抽象工厂模式 abstract factory

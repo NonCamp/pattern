@@ -5,5 +5,11 @@ public class Test {
 		Factory factory = new ProductAFactoryImpl();
 		Product pro = factory.createPro();
 		pro.use();
+		
+		Factory factory2 = new ProductBFactoryImpl();
+		Product pro2 = factory2.createPro();
+		pro2.use();
+		
+		
 	}
 }
