@@ -14,3 +14,4 @@
 - 观察者模式  observer
 - 抽象工厂模式 abstract factory
 - 状态模式 state
+- 适配器模式 adapter
