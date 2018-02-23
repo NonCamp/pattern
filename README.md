@@ -16,3 +16,4 @@
 - 状态模式 state
 - 适配器模式 adapter
 - 桥接模式 bridge
+- 命令模式 command
