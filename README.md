@@ -17,3 +17,4 @@
 - 适配器模式 adapter
 - 桥接模式 bridge
 - 命令模式 command
+- 职责链模式 chain of responsibility
